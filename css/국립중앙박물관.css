@@ -73,6 +73,8 @@ button {
 }
 body {
   color: #333;
+  min-width: 1920px;
+  width: 100%;
 }
 .page {
   width: 100%;
